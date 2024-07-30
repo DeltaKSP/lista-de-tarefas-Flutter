@@ -159,7 +159,7 @@ class _TodoListScreenState extends State<TodoListScreen> {
   Widget build(BuildContext context) {
     var appBar = AppBar(
         title: const Text('Lista de Tarefas'),
-      
+        backgroundColor: Color.fromARGB(255, 33, 52, 161)
       );
     return Scaffold(
       appBar: appBar,
@@ -199,6 +199,7 @@ class _TodoListScreenState extends State<TodoListScreen> {
         onPressed: () => _showTaskForm(),
         child: Icon(Icons.add),
         tooltip: 'Adicionar Tarefa',
+        backgroundColor: Color.fromARGB(255, 33, 52, 161),
       ),
     );
   }
