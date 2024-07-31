@@ -63,3 +63,22 @@ O projeto utiliza as seguintes dependências:
 
 Para mais detalhes, consulte o arquivo `pubspec.yaml`.
 
+## Funcionalidades 
+
+
+![Home norml](https://github.com/user-attachments/assets/3e8b5406-b90a-46ee-86d1-eb0df71b4c74)
+
+
+![tela criação](https://github.com/user-attachments/assets/9151528b-9a4a-497e-97b2-aff6dc8c6f3d)
+
+
+![validação](https://github.com/user-attachments/assets/508a83eb-f318-465c-93d2-95d3342692d6)
+
+
+![tarefa criad](https://github.com/user-attachments/assets/40a7136b-abc7-4d3a-a032-d7c5a7abd87e)
+
+
+![check lit](https://github.com/user-attachments/assets/8eb5f6e5-271f-42ca-a6b0-ebd92afad27d)
+
+
+![tela de edição](https://github.com/user-attachments/assets/c0e9dda7-128a-489f-ae43-4ca1a8e14b2e)
